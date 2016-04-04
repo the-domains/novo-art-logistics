@@ -1,0 +1,28 @@
+name: Novo Art Logistics
+favicon: null
+layout_spectrum: 0.9182043098844588
+typography_spectrum: 0.19279009057208896
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.06774469488300383
+  lightness: 0.29281870275735855
+  saturation: 0.4940473479218781
+  rhythmicContrast: 0.5102135196793824
+purpose: []
