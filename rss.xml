@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Novo Art Logistics]]></title>
+        <description><![CDATA[Novo Art Logistics]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Apr 2016 01:03:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc192200-b59c-497f-9b14-b8b79a53977b.jpg">]]></description>
+            <link>undefinednovo-art-logistics/index.html</link>
+            <guid isPermaLink="false">13dc7730-a4f2-44e2-a679-31e280104b4b</guid>
+            <pubDate>Mon, 04 Apr 2016 01:03:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
